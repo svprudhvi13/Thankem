@@ -1,0 +1,79 @@
+#loginButton, .postComment{
+
+	font-family:inherit;
+	height:25px;
+	width:auto;
+	/*margin-left:10px;*/
+	color:#ffffff;
+	background-color:#3777cf;
+	border:#3777cf;
+}
+#loginButton{
+
+	margin-top: 20px;	
+}
+#loginButton:hover, .postComment:hover{
+    background-color: #444477;
+   
+}
+#headingContainer{
+background-color:#6495ed;
+}
+#heading{
+padding:8px;
+color:#ffffff;
+
+
+}
+#heading button{
+vertical-align:text-bottom;
+float:right;
+
+}
+#heading span{
+
+font-size: 40px;
+}
+
+#errorMessage{
+color:red;
+}
+
+#birthdayFeed{
+float:right;
+}
+.feed{
+width:300px;
+color:white;
+background-color:#3777cf;
+border: black solid 1px ;
+
+
+}
+#container{
+width:300px;
+float:left;
+}
+.tickContainer{
+
+}
+
+.tick{
+height:14px;
+width:14px;
+}
+#container #birthdayFeed{
+display: inline;
+}
+.facebookLink, .appLink{
+color:#dfdfff;
+text-decoration: none;
+}
+.facebookLink:hover,.appLink:hover{
+
+color:white;
+}
+#heading, #bodyContent{
+width:75%;
+margin: 0 auto;
+}
